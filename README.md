@@ -4,7 +4,7 @@
 
 By Amy Kang
 
-Buil with ASP.NET
+Built with ASP.NET
 
 ** In Development **
 
