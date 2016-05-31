@@ -9,5 +9,6 @@ namespace Meowdit.DAL
         public MeowContext() : base("MeowContext") {}
 
         public DbSet<Meow> Meows { get; set; }
+        public DbSet<Post> Posts { get; set; }
     }
 }
